@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7imvY9ltwQUA0Muw5grIthrzVtQe2nwJ0k4xGrnSukCw/qiiX+a5liigBMeHdK77vSvknYNMSSWKTK5rB7xv6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dharmin.patel\\Desktop\\Temporary\\Test_Git_Azure_WebAPI\\Test_Git_Azure_WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dharmin.patel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dharmin.patel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Dharmin.patel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Dharmin.patel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Dharmin.patel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Dharmin.patel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

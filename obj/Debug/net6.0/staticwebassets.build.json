@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CEnur5DpJ4UsmgQeoXPsMam2hbW7A4FjYZdJDK5o3Eg=",
+  "Source": "Test_Git_Azure_WebAPI",
+  "BasePath": "_content/Test_Git_Azure_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
